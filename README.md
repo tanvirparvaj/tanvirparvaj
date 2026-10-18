@@ -5,12 +5,12 @@
 </p>
 
 ### 🎓 About Me
-- 👨‍💻 Undergraduate Student of **Computer Science & Engineering (CSE)** at **Dhaka International University (DIU)**.
-- 🚀 Project Lead & Architect of **[TravelUp Global](https://github.com/tanvirparvaj/TravelUp-Global)** — An Enterprise Dual-Portal Global Tourism and Dynamic Itinerary Engineering Platform.
-- 🌱 Passionate about **Full-Stack Web Engineering**, **JavaScript (ES6+)**, and **Relational Database Systems**.
-- 💬 Discuss with me about: **Web Technologies, Markup & Scripting Languages, System Architecture**.
+  👨‍💻 Undergraduate Student of **Computer Science & Engineering (CSE)** at **Dhaka International University (DIU)**.
+  🚀 Project Lead & Architect of **[TravelUp Global](https://github.com/tanvirparvaj/TravelUp-Global)** An Enterprise Dual Portal Global Tourism and Dynamic Itinerary Engineering Platform.
+  🌱 Passionate about **Full-Stack Web Engineering**, **JavaScript (ES6+)**, and **Relational Database Systems**.
+  💬 Discuss with me about: **Web Technologies, Markup & Scripting Languages, System Architecture**.
 
----
+ 
 
 ### 🛠️ Languages & Technologies
 <p align="left">
